@@ -7,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    
+     <h1>Alejandro</h1>
+    <form method="POST" action="altaPHP">
+    Nombre: <input type="text" name="nombre">
+    Apellido: <input type="text" name="apellido">
+    Edad: <input type="text" name="apellido">
+    Celular: <input type="text" name="celular">
+    <input type="submit" name="enviar" value="ALTA">
+    </form>   
 </body>
 </html>
