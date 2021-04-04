@@ -8,7 +8,7 @@
 </head>
 <body>
      <h1>Alejandro</h1>
-    <form method="POST" action="altaPHP">
+    <form method="POST" action="altaPHP.php">
     Nombre: <input type="text" name="nombre">
     Apellido: <input type="text" name="apellido">
     Edad: <input type="text" name="apellido">
