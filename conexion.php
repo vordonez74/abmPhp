@@ -1,15 +1,16 @@
 <?php
+/*
 $host = "localhost";
 $user = "root";
 $pass = "";
 $db = "agenda2";
+*/
 
-/*
 $host = "wordpress-db-ale:3306";
 $user = "cucai";
 $pass = "voluntad229";
 $db = "agenda2";
-*/
+
 /*
 $host = "wordpress-db-ale:3306";
 $user = "wordpress";
